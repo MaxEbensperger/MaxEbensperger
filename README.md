@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Max Ebensperger
-- 👀 I’m interested in 3D printing, all kinds of technology, programming, making PCBs, Web design and many more
-- 🌱 I’m currently studying at the TFO Meran
-- 📫 How to reach me: maxebensperger07@gmail.com
+👋 Hi, I'm Max Ebensperger!
+
+- 🌟 I'm passionate about 3D printing, cutting-edge technology, programming, PCB design, web design, and more.
+- 📚 Currently, I'm a student at TFO Meran, diving deep into the world of technology and innovation.
+- 📫 Reach out to me at maxebensperger07@gmail.com
